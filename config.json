@@ -56,7 +56,7 @@
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "Recommended using 'mongodb' or 'sqlite'."
   },
-  "timeZone": "Asia/Dhaka",
+  "timeZone": "Asia/Kolkata",
   "credentials": {
     "gmailAccount": {
       "email": "botofnexxo@gmail.com",
